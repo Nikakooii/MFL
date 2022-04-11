@@ -1,0 +1,284 @@
+.a {
+	display: inline-block
+}
+.title {
+	    margin-top: 94px;
+	    margin-left: 620px;
+	    margin-bottom: 94px;
+	    text-transform: uppercase;
+	    font-size: 22px;
+	    color: #D4145A;
+}
+.aa {
+	margin-left: 40px;
+    font-size: 22px;
+}
+.divider {
+	background-color: #EFEFEF;
+	height: 20px;
+	margin-top: 50px;
+}
+.ab {
+	margin-right: 20px;
+}
+.img1 
+{width: 630px;
+
+}
+.img2 {width: 410px;
+	height: 400px;
+}
+.div1{
+margin-top:60px;
+margin-left: 126px;
+margin-bottom: 100px;
+}
+.b3 {
+	margin-left: 126px;
+	font-size: 34px;
+	margin-bottom: 54px;
+	color: #FFFFFF;
+}
+.b4 {margin-top: 126;
+	font-size: 20px;
+	margin-left: 800px;
+	margin-bottom: 54px;
+	color: white;
+
+}
+.img3{
+	width: 265px;
+	
+}
+.p1{
+	width: 230px;
+	margin-top: 46px;
+	padding-left:20px;
+	padding-bottom: 10px;
+	font-size: 20px;
+	color: black;
+}
+.b31 {
+	font-size: 34px;
+	color: black;
+	margin-top: 46px;
+	padding-left: 26px;
+}
+
+.div001 {
+	border-width: 0.5px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background-color: white;
+	width: 250px;
+	margin-left: 126px;
+	margin-bottom: 54px;
+}
+.div0011 {
+	border-width: 0.5px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background-color: white;
+	width: 265px;
+	margin-left: 30px;
+}
+.div00111 {
+	border-width: 0.5px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background-color: white;
+	width: 255px;
+	margin-left: 30px;
+}
+.divider1{border-width: 0.3px;
+	border-style: solid;
+	border-color: #C69A63;
+	width: 105px;
+	background-color: #C69A63;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.div4{
+	margin-left: 126px;
+
+}
+.ddd1 {
+	border-width: 0.5px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	margin-left: 126px;
+	margin-bottom: 54px;
+	width: 300px;
+}
+.qqq1 {
+	vertical-align: middle;
+}
+
+.qqq2 {
+	vertical-align: bottom;
+	padding-bottom: 10px;
+	margin-right: 20px;
+	padding-bottom: 40px;
+	font-size: 22px;
+}
+.qqq3 {
+	vertical-align: middle;
+    margin-left: 20px;
+    font-size: 30px;
+   }
+.ddd2 {
+	border-width: 0.5px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	margin-left: 20px;
+	width: 300px;
+}
+.sec4 {
+	background-color: #CD565E;
+}
+.ddd3 {
+	border-width: 0.5px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	margin-left: 126px;
+	margin-bottom: 54px;}
+.ddd5 {
+	border-width: 0.5px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	margin-left: 30px;
+	margin-bottom: 54px;
+width: 250px;
+}
+.h5	{ margin-top: 10px;
+	  padding-left: 10px;
+	  margin-bottom: 10px;
+	  font-size: 30px;
+}
+.h6 {
+		margin-bottom: 10px;
+		/*margin-left: 10px;*/
+		font-size: 22px;
+		padding-right: 30px;
+		padding-left: 10px;
+}
+	.h7 {
+		padding-left: 10px;
+		padding-bottom: 10px;
+		font-size: 22px;
+}
+.h8{
+	margin-bottom: 12px;
+	padding-top: 30px;
+	padding-left: 10px;
+}
+.h9 {
+	padding-top: 8px;
+	padding-left: 10px;
+}
+.ddd6 {
+	border-width: 0.5px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	margin-left: 30px;
+	margin-bottom: 54px;
+    width: 270px;}
+.b5 {
+	color: silver;
+}
+.b5 {
+	font-size: 20px;
+	margin-left: 880px;
+	margin-bottom: 54px;
+	color: black;    
+}
+.im1 {
+	width: 365px;
+}
+.di1 {
+	border-width: 0.5px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	margin-left: 126px;
+	margin-bottom: 54;
+}
+.di2 {
+	border-width: 0.5px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	margin-left: 10px;
+	margin-bottom: 54;
+}
+.im2{
+	width: 150px;
+	padding-top: 72px;
+	padding-left: 10px;
+	margin-bottom: 30px;
+}
+.ps{
+	width: 230px;
+	margin-top: 5px;
+	padding-left:20px;
+	padding-bottom: 10px;
+	font-size: 20px;
+	color: black;}
+.divider2 {
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C2C2C2;
+	width: 568px;
+	vertical-align: middle;
+}
+.title2 {
+	    margin-top: 94px;
+	    margin-left: 18px;
+	    margin-bottom: 94px;
+	    margin-right: 18px;
+	    text-transform: uppercase;
+	    font-size: 22px;
+	    color: #C69A63;
+	    vertical-align: middle;
+}
+.divider3 {
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C2C2C2;
+	width: 568px;
+	vertical-align: middle;
+}
+.f {
+   margin-left: 146px;
+   margin-bottom: 232px;
+}
+.f1 {
+	font-size: 26px;
+	margin-bottom: 15px;
+}
+.ff{
+	font-size: 20px;
+	padding-bottom: 10px;
+	color: black;
+}
+.ff2 {
+	font-size: 20px;
+	color: black;
+}
+.f3 {
+	margin-left: 121px;
+    margin-bottom: 232px;
+}
+.f12 {
+	font-size: 26px;
+	margin-bottom: 45px;
+}
+.fs {
+	font-size: 26px;
+	margin-bottom: 30px;
+	padding-left: 10px;
+}
+.fon {
+	font-family: 'Arvo';
+}
+.fon1 {
+	font-family: 'Raleway';
+}
